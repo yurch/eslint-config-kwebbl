@@ -15,4 +15,6 @@
 "no-inner-declarations": ["error", "functions"],
 "one-var": ["error", { uninitialized: "always", initialized: "never" }],
 "one-var-declaration-per-line": "off",
+"operator-linebreak"
 "space-in-parens"
+"vars-on-top"
