@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-kwebbl",
+  "version": "0.0.1",
+  "description": "ESLint Shareable Configs for Kwebbl projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurch/eslint-config-kwebbl.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "codestyle"
+  ],
+  "author": "yurch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurch/eslint-config-kwebbl/issues"
+  },
+  "homepage": "https://github.com/yurch/eslint-config-kwebbl#readme"
+}
