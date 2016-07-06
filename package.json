@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kwebbl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ESLint Shareable Configs for Kwebbl projects",
   "main": "index.js",
   "scripts": {
