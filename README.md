@@ -6,6 +6,7 @@ Check [ESLint configuring](http://eslint.org/docs/user-guide/configuring) to see
 ## Provided Configurations
   * node.js 4.* : `kwebbl/lib/node4`
   * node.js 6.* : `kwebbl/lib/node`
+  * node.js 8.* : `kwebbl/lib/node8`
   * browser app : `kwebbl/lib/browser`
   * react app : `kwebbl/lib/react`
 
